@@ -4,7 +4,7 @@
 
 ## Root CA
 
-- [Root CA](root-ca/ajf8729-root-ca-02.md)
+- [AJF8729 ROOT CA 02](root-ca/ajf8729-root-ca-02.md)
 
 ## Lab Environments
 
