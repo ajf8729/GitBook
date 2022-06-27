@@ -1,5 +1,12 @@
 # CAS Lab
 
+- Single Active Directory Forest/Domain (cas.ajf8729.com)
+- ConfigMgr Central Administration Site
+- Two ConfigMgr Child Primary Sites
+- HTTPS-Only Mode
+
+# Hosts
+
 ## CASDC01.cas.ajf8729.com
 
 - Windows Server 2022 Datacenter
