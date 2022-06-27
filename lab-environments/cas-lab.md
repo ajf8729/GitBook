@@ -6,15 +6,15 @@
 - 172.30.101.2/24
 - Roles
   - Active Directory Domain Services
-  - DNS Server
   - DHCP Server
+  - DNS Server
 
 ## ADSYNC01.cas.ajf8729.com
 
 - Windows Server 2022 Datacenter
 - 172.30.101.3/24
 - Roles
-  - Azure AD Connect
+  - Azure AD Connect (2.1.1.0)
 
 ## CMCAS01.cas.ajf8729.com
 
@@ -33,6 +33,7 @@
   - Patch My PC Publishing Service (2.1.6.0)
   - Power BI Report Server (May 2022)
   - SQL Server 2019 Standard (15.0.4236.7)
+  - Windows ADK 2004 (10.1.19041.1)
 
 ## CMPSA01.cas.ajf8729.com
 
