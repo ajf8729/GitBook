@@ -1,15 +1,14 @@
-# Table of contents
+# Table of Contents
 
-* [Home](README.md)
+- [Home](README.md)
 
-## Root Certificate Authority
+## Root CA
 
-* CA Name: "AJF8729 ROOT CA 02"
-* CDP/AIA Location: [http://pki.ajf8729.com/](http://pki.ajf8729.com/)
+- [Root CA](root-ca/ajf8729-root-ca-02.md)
 
 ## Lab Environments
 
-* [Production Lab](lab-environments/production-lab.md)
-* [Beta Lab](lab-environments/beta-lab.md)
-* [Dev/Test Lab](lab-environments/dev-test-lab.md)
-* [CAS Lab](lab-environments/cas-lab.md)
+- [Production Lab](lab-environments/production-lab.md)
+- [Beta Lab](lab-environments/beta-lab.md)
+- [Dev/Test Lab](lab-environments/dev-test-lab.md)
+- [CAS Lab](lab-environments/cas-lab.md)
