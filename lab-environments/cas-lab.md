@@ -1,9 +1,9 @@
 # Summary
 
 - Single Active Directory Forest/Domain (cas.ajf8729.com)
-- ConfigMgr Central Administration Site
-- Two ConfigMgr Child Primary Sites
-- HTTPS-Only Mode
+- Synchronized to Azure AD (afontanez.onmicrosoft.com)
+- ConfigMgr Central Administration Site + 2 Child Primary Sites
+  - HTTPS-Only Mode
 
 # Hosts
 
@@ -13,7 +13,6 @@
 - 172.30.101.2/24
 - Roles
   - Active Directory Domain Services
-  - DHCP Server
   - DNS Server
 
 ## ADSYNC01.cas.ajf8729.com
@@ -22,6 +21,7 @@
 - 172.30.101.3/24
 - Roles
   - Azure AD Connect (2.1.1.0)
+  - DHCP Server
 
 ## CMCAS01.cas.ajf8729.com
 
