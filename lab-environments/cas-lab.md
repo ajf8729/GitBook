@@ -83,6 +83,6 @@
 - Roles
   - Active Directory Certificate Services
     - Enterprise Subordinate Certificate Authority
-      - CA: AJF8729 CAS LAB SIGNING CA
-      - CDP/AIA: [http://pki.cas.ajf8729.com/CertEnroll/](http://pki.cas.ajf8729.com/CertEnroll/)
+      - CA Name: AJF8729 CAS LAB SIGNING CA
+      - CDP/AIA Location: [http://pki.cas.ajf8729.com/CertEnroll/](http://pki.cas.ajf8729.com/CertEnroll/)
     - Certificate Authority Web Enrollment
