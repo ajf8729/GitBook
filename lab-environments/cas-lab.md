@@ -40,7 +40,7 @@
   - Patch My PC Publishing Service (2.1.6.0)
   - Power BI Report Server (May 2022)
   - SQL Server 2019 Standard (15.0.4236.7)
-  - Windows ADK 2004 (10.1.19041.1)
+  - Windows 10 ADK 2004 (10.1.19041.1)
 
 ## CMPSA01.cas.ajf8729.com
 
