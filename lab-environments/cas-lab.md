@@ -1,4 +1,4 @@
-# CAS Lab
+# Summary
 
 - Single Active Directory Forest/Domain (cas.ajf8729.com)
 - ConfigMgr Central Administration Site
