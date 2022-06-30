@@ -15,6 +15,14 @@
   - Active Directory Domain Services
   - DNS Server
 
+## ADDC02.ad.ajf8729.com
+
+- Windows Server 2022 Datacenter
+- 172.30.1.3/24
+- Roles
+  - Active Directory Domain Services
+  - DNS Server
+
 ## ADCM01.ad.ajf8729.com
 
 - Windows Server 2019 Datacenter
