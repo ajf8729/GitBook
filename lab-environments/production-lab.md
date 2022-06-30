@@ -7,15 +7,6 @@
 
 # Hosts
 
-## ADDC01A.ad.ajf8729.com
-
-- Windows Server 2022 Datacenter
-- 172.30.1.2/24
-- Roles
-  - Active Directory Domain Services
-  - DFS Namespace Server
-  - DNS Server
-
 ## ADDC02.ad.ajf8729.com
 
 - Windows Server 2022 Datacenter
