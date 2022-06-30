@@ -13,6 +13,7 @@
 - 172.30.1.2/24
 - Roles
   - Active Directory Domain Services
+  - DFS Namespace Server
   - DNS Server
 
 ## ADDC02.ad.ajf8729.com
@@ -21,7 +22,12 @@
 - 172.30.1.3/24
 - Roles
   - Active Directory Domain Services
+  - Azure AD Application Proxy Connector
+  - Azure AD Connect (2.1.1.0)
+  - DFS Namespace Server
   - DNS Server
+  - DHCP Server
+  - Intune Connector for Active Directory
 
 ## ADCM01.ad.ajf8729.com
 
@@ -37,16 +43,6 @@
     - SMS Provider
   - SQL Server 2019 Standard (15.0.4236.7)
   - Windows 11 ADK 22H2 (10.1.22621.1)
-
-## ADSYNC01.ad.ajf8729.com
-
-- Windows Server 2022 Datacenter
-- 172.30.1.6/24
-- Roles
-  - Azure AD Application Proxy Connector
-  - Azure AD Connect (2.1.1.0)
-  - DHCP Server
-  - Intune Connector for Active Directory
 
 ## ADCA02.ad.ajf8729.com
 
