@@ -12,18 +12,20 @@
 - Windows Server 2022 Datacenter
 - 172.30.101.2/24
 - Alternative Hostnames
-  - PKI.cas.ajf8729.com
+  - PKI.corp.ajf.one
 - Roles
   - Active Directory Certificate Services
     - Enterprise Subordinate Certificate Authority
-      - CA Name: "AJF8729 CAS LAB SIGNING CA"
-      - CDP/AIA Location: [http://pki.cas.ajf8729.com/CertEnroll/](http://pki.cas.ajf8729.com/CertEnroll/)
+      - CA Name: "AJF.ONE CORP SIGNING CA"
+      - CDP/AIA Location: [http://pki.corp.ajf.one/CertEnroll/](http://pki.corp.ajf.one/CertEnroll/)
     - Certificate Authority Web Enrollment
   - Active Directory Domain Services
   - Azure AD Connect (2.1.15.0)
   - DFS Namespace Server
-  - DNS Server
   - DHCP Server
+  - DNS Server
+  - Intune Certificate Connector (6.2205.201.0)
+  - Intune Connector for Active Directory (6.2204.38.3)
 
 ## CMCAS01.corp.ajf.one
 
@@ -41,8 +43,8 @@
     - Software Update Point
   - Patch My PC Publishing Service (2.1.6.0)
   - Power BI Report Server (May 2022)
-  - SQL Server 2019 Standard (15.0.4236.7)
-  - Windows 10 ADK 2004 (10.1.19041.1)
+  - SQL Server 2019 Enterprise (15.0.4236.7)
+  - Windows 10 ADK 2004 (10.1.22000.1)
 
 ## CMPSA01.corp.ajf.one
 
@@ -58,8 +60,8 @@
     - Site Server
     - SMS Provider
     - Software Update Point
-  - SQL Server 2019 Standard (15.0.4236.7)
-  - Windows 10 ADK 2004 (10.1.19041.1)
+  - SQL Server 2019 Enterprise (15.0.4236.7)
+  - Windows 10 ADK 2004 (10.1.22000.1)
 
 ## CMPSB01.corp.ajf.one
 
@@ -75,5 +77,5 @@
     - Site Server
     - SMS Provider
     - Software Update Point
-  - SQL Server 2019 Standard (15.0.4236.7)
-  - Windows 10 ADK 2004 (10.1.19041.1)
+  - SQL Server 2019 Enterprise (15.0.4236.7)
+  - Windows 10 ADK 2004 (10.1.22000.1)
