@@ -2,13 +2,13 @@
 
 - [Home](README.md)
 
-## Root CA
-
-- [AJF8729 ROOT CA 02](root-ca/ajf8729-root-ca-02.md)
-
 ## Lab Environments
 
-- [Production Lab](lab-environments/production-lab.md)
-- [Beta Lab](lab-environments/beta-lab.md)
+- [Production Lab 1](lab-environments/production-lab-1.md)
+- [Production Lab 2](lab-environments/production-lab-2.md)
+- [Technical Preview Lab](lab-environments/technical-preview-lab.md)
 - [Dev/Test Lab](lab-environments/dev-test-lab.md)
-- [CAS Lab](lab-environments/cas-lab.md)
+
+## Certificate Authorities
+
+- [AJF8729 ROOT CA 02](root-ca/ajf8729-root-ca-02.md)
